@@ -1,0 +1,166 @@
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\ApplicationInsights.config
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\csc.exe
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\vbc.exe
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\jnFrontEnd.dll.config
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\jnFrontEnd.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\jnFrontEnd.pdb
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Antlr3.Runtime.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\EntityFramework.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\EntityFramework.SqlServer.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.Web.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.Google.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Newtonsoft.Json.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Owin.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.Helpers.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.Mvc.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.Optimization.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.Razor.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.WebPages.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.WebPages.Razor.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\WebGrease.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.Web.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.Helpers.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.Mvc.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.Optimization.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.Razor.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.WebPages.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\System.Web.WebPages.Razor.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Antlr3.Runtime.pdb
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Newtonsoft.Json.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\EntityFramework.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\EntityFramework.SqlServer.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.Google.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\obj\Debug\jnFrontEnd.csprojResolveAssemblyReference.cache
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\obj\Debug\jnFrontEnd.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\jnFrontEnd\obj\Debug\jnFrontEnd.pdb
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\ApplicationInsights.config
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\csc.exe
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\System.Collections.Immutable.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\System.Reflection.Metadata.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\vbc.exe
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\VBCSCompiler.exe
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\roslyn\VBCSCompiler.exe.config
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\jnFrontEnd.dll.config
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\jnFrontEnd.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\jnFrontEnd.pdb
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Antlr3.Runtime.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\EntityFramework.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\EntityFramework.SqlServer.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.DependencyCollector.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.Web.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.WindowsServer.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.ApplicationInsights.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.Google.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Web.Infrastructure.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Newtonsoft.Json.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Owin.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Net.Http.Formatting.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.Helpers.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.Mvc.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.Optimization.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.Razor.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.WebPages.Deployment.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.WebPages.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.WebPages.Razor.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\WebGrease.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.DependencyCollector.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.Web.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AI.WindowsServer.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.ApplicationInsights.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Net.Http.Formatting.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.Helpers.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.Mvc.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.Optimization.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.Razor.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.WebPages.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.WebPages.Deployment.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\System.Web.WebPages.Razor.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Antlr3.Runtime.pdb
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Newtonsoft.Json.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\EntityFramework.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\EntityFramework.SqlServer.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.Google.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\obj\Debug\jnFrontEnd.dll
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\obj\Debug\jnFrontEnd.pdb
+C:\Dropbox\2016SU\686\jnLogger\jnFrontEnd\obj\Debug\jnFrontEnd.csprojResolveAssemblyReference.cache

@@ -1,0 +1,27 @@
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\LoggerTest.exe
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\SampleLogger.dll
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\bin\Debug\SampleLogger.pdb
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Users\doomhmmr\Desktop\LoggerTest\LoggerTest\obj\Debug\LoggerTest.pdb
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe.config
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.exe
+D:\Dropbox\Dropbox\Teaching SU\CSE 686\__Shared CSE 686\08 Week 8 - Databases - SQL and Design\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.pdb
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.pdb
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\SampleLogger.dll
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\SampleLogger.pdb
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe.config
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.exe
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.pdb
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.exe
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\LoggerTest.pdb
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\SampleLogger.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\LoggerTest\bin\Debug\SampleLogger.pdb
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\LoggerTest\obj\Debug\LoggerTest.csprojResolveAssemblyReference.cache

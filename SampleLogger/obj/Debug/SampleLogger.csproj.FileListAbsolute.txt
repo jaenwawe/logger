@@ -1,0 +1,15 @@
+C:\Users\doomhmmr\Desktop\LoggerTest\SampleLogger\bin\Debug\SampleLogger.dll
+C:\Users\doomhmmr\Desktop\LoggerTest\SampleLogger\bin\Debug\SampleLogger.pdb
+C:\Users\doomhmmr\Desktop\LoggerTest\SampleLogger\obj\Debug\SampleLogger.csprojResolveAssemblyReference.cache
+C:\Users\doomhmmr\Desktop\LoggerTest\SampleLogger\obj\Debug\SampleLogger.dll
+C:\Users\doomhmmr\Desktop\LoggerTest\SampleLogger\obj\Debug\SampleLogger.pdb
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\SampleLogger\bin\Debug\SampleLogger.dll
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\SampleLogger\bin\Debug\SampleLogger.pdb
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\SampleLogger\obj\Debug\SampleLogger.csprojResolveAssemblyReference.cache
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\SampleLogger\obj\Debug\SampleLogger.dll
+C:\Users\Jae Nwawe\Dropbox\686\Code - 02 - LoggerTestHarness\SampleLogger\obj\Debug\SampleLogger.pdb
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\SampleLogger\bin\Debug\SampleLogger.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\SampleLogger\bin\Debug\SampleLogger.pdb
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\SampleLogger\obj\Debug\SampleLogger.csprojResolveAssemblyReference.cache
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\SampleLogger\obj\Debug\SampleLogger.dll
+C:\Dropbox\2016SU\686\Code - 02 - LoggerTestHarness\SampleLogger\obj\Debug\SampleLogger.pdb

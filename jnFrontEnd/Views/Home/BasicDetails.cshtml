@@ -1,0 +1,13 @@
+﻿@model jnFrontEnd.Models.User
+@{
+    ViewBag.Title = "BasicDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>BasicDetails Page</h2>
+
+Student Id: @Model.Id <br />
+Student Name: @Model.Name
+
+<br /><br />
+@Html.ActionLink("Home", "Index")
